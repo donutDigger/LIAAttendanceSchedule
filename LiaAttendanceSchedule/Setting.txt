@@ -1,0 +1,3 @@
+﻿ip_machine=169.254.183.139
+port=4370
+email_receivers=kutarajan@gmail.com,nurul.uhkrowi@gmail.com

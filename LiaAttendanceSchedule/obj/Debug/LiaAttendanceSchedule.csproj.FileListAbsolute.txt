@@ -1,0 +1,16 @@
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\obj\Debug\LiaAttendanceSchedule.csprojAssemblyReference.cache
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\obj\Debug\LiaAttendanceSchedule.csproj.ResolveComReference.cache
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\obj\Debug\LiaAttendanceSchedule.csproj.CoreCompileInputs.cache
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\bin\Debug\LiaAttendanceSchedule.exe.config
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\bin\Debug\LiaAttendanceSchedule.exe
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\bin\Debug\LiaAttendanceSchedule.pdb
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\obj\Debug\LiaAttendanceSchedule.exe
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\obj\Debug\LiaAttendanceSchedule.pdb
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\obj\Debug\LiaAttendanceSchedule.Resources.Setting.resources
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\obj\Debug\LiaAttendanceSchedule.csproj.GenerateResource.cache
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\obj\Debug\LiaAttendanceSchedule.csproj.CopyComplete
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\bin\Debug\Setting.txt
+C:\Users\bahru\source\repos\LiaAttendanceSchedule\LiaAttendanceSchedule\bin\Debug\ErrorLog.txt
